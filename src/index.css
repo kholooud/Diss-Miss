@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Assistant&display=swap");
+
+:root {
+  font-family: "Lato", "Assistant", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #1a1a1a;
+  background-color: #f0f0f0;
+}
+
+body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: inherit;
+}
+.MuiOutlinedInput-notchedOutline
+{
+ border-color: #666 !important; 
+}
+.css-1jy569b-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+  color:#666 !important ;
+  border-color: #666 !important;
+}
